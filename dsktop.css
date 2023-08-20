@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: orangered;
+}
+#cup{
+  display: none;
+}
+
+#profile{
+  display: none;
+}
+
+#about{
+  display: none;
+}
+
+#skill{
+  display: none;
+}
+
+#project{
+  display: none;
+}
+
+#services{
+  display: none;
+}
+
+#review{
+  display: none;
+}
+
+#map{
+  display: none;
+}
+
+#form{
+  display: none;
+}
+
+.footer{
+  display: none;
+}
+
+#google_translate_element{
+  display: none;
+}
